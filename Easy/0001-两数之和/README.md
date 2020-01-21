@@ -1,6 +1,8 @@
 # Solution1
 
-暴力法求解。时间复杂度：$O(n^2)$，空间复杂度$O(1)$
+暴力法求解。
+时间复杂度: ![](http://latex.codecogs.com/gif.latex?\O(n^2))<br>
+空间复杂度$O(1)$
 
 # solution2
 
