@@ -6,6 +6,5 @@
 
 - 递推表达式:
 
-$$
-dp[row][col] = triangle.get(row).get(col) + Math.min(dp[row+1][col],dp[row+1][col+1])
-$$
+  ![](E:\leetcode\Medium\0120-三角形最小路径和\1.png)
+
