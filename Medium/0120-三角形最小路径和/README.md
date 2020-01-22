@@ -6,5 +6,5 @@
 
 - 递推表达式:
 
-  ![](./1.png)
+  **dp\[row\]\[col\] = triangle.get(row).get(col) + Math.min(dp\[row+1\]\[col\], dp\[row+1\]\[col+1\])** 
 
