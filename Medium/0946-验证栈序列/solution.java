@@ -1,7 +1,4 @@
-/*
-*   用栈来模拟整个push和pop的过程。 最后检测栈是否为空，即可
-*
-*/
+
 
 class Solution {
     public boolean validateStackSequences(int[] pushed, int[] popped) {
